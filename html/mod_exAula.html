@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Exemplo de Estrutura de uma página simples com HTML 5</title>
+    <style>
+        h1{
+            font-family: 'Times New Roman', Times, serif;
+            color: coral;
+            font-size: xx-large;
+        }
+        h2{
+            font-family:Arial, Helvetica, sans-serif;
+            color:brown;
+        }
+        body{
+            background-color: #000;
+        }
+        header {
+            background-color: cadetblue;
+        }
+
+        nav {
+            background-color:lightcoral;
+            border-radius: 30px;
+        }
+
+        section {
+            background-color: white;
+            padding: 50px;
+        }
+
+        article {
+            background-color: white;
+            display: block;
+        }
+
+        aside{
+            background-color: black;
+            color: white;
+            width: 50%;
+            float: left;
+        }
+
+        footer {
+            background-color: #000;
+            font-size: x-small;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 30px;
+            color: #FFF;
+        }
+
+        details {
+            color:white;
+        }
+    </style>
+</head>
+
+<body>
+        <nav>
+            <ul>
+                <br><i class="fa fa-home" onclick="home()">Home</i><br>
+                <br><i class="fa fa-shopping-bag" onclick="nul()">Produtos</i><br>
+                <br><i id = "quem" class="fa fa-question" onmouseover="quem()" onmouseout="qS()">Quem somos</i><br>
+                <br><i id = "cont" class="fa fa-phone" onmouseover="cont()" onmouseout="p()">Contatos</i><br>
+            </ul>
+        </nav>
+
+    <section>
+        <article>
+            <header>
+                <h1>Título do Artigo</h1>
+                <p>Publicado em 22 de Março de 2017 por <a href="#">Author</a> - <a href="#">30 comentários</a></p>
+            </header>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna </p>
+            <footer>
+                <details>
+                    <summary>Clique aqui para mais detalhes </summary>
+                    <p>Aqui você têm mais informações sobre os detalhes.<p>
+                </details>
+            </footer>
+        </article>
+    </section>
+    <section>
+        <article>
+            <aside>
+                <h2>Aqui você pode saber mais...</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna </p>
+            </aside>
+
+            <aside>
+                <h2>Aqui você pode saber mais...</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna </p>
+            </aside>
+        </article>
+    </section>
+    <section>
+        <article>
+            <header>
+                <h1>Título do Artigo</h1>
+                <p>Publicado em 22 de Março de 2017 por <a href="#">Author</a> - <a href="#">30 comentários</a></p>
+            </header>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna </p>
+        </article>
+    </section>
+
+    <footer>
+        <p>Copyright 2017</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+            magna </p>
+    </footer>
+    <script>
+        function home() {
+          window.alert("Seja Bem-vindo(a)!")
+        }
+        function cont() {
+          document.getElementById("cont").innerHTML = "Telefone:(11)1111-1111"
+        }
+        function p(){
+            document.getElementById("cont").innerHTML ="Contatos"
+        }
+        function nul() {
+            window.alert("Estamos trabalhando nisso!")
+        }
+        function quem(){
+            document.getElementById("quem").innerHTML = "Somos uma empresa especializada em publicação de artigos científicos!"
+        }
+        function qS(){
+            document.getElementById("quem").innerHTML ="Quem somos"
+        }
+        </script>
+</body>
+
+</html>

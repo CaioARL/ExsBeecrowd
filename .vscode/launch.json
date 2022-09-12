@@ -1,0 +1,273 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch URI1153",
+      "request": "launch",
+      "mainClass": "URI1153",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1144",
+      "request": "launch",
+      "mainClass": "URI1144",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1142",
+      "request": "launch",
+      "mainClass": "URI1142",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1117",
+      "request": "launch",
+      "mainClass": "URI1117",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1115",
+      "request": "launch",
+      "mainClass": "URI1115",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1116",
+      "request": "launch",
+      "mainClass": "URI1116",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1114",
+      "request": "launch",
+      "mainClass": "URI1114",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch URI1061",
+      "request": "launch",
+      "mainClass": "URI1061",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1080",
+      "request": "launch",
+      "mainClass": "Ex1080",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1001",
+      "request": "launch",
+      "mainClass": "Ex1001",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArraysDuo",
+      "request": "launch",
+      "mainClass": "ArraysDuo",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch For",
+      "request": "launch",
+      "mainClass": "For",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DoWhile",
+      "request": "launch",
+      "mainClass": "DoWhile",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch While",
+      "request": "launch",
+      "mainClass": "While",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch IfIdades",
+      "request": "launch",
+      "mainClass": "IfIdades",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch IF",
+      "request": "launch",
+      "mainClass": "IF",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch operadorNega",
+      "request": "launch",
+      "mainClass": "operadorNega",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch operadorOU",
+      "request": "launch",
+      "mainClass": "operadorOU",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch opradorlogico",
+      "request": "launch",
+      "mainClass": "opradorlogico",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch incremento",
+      "request": "launch",
+      "mainClass": "incremento",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch negativopositivo",
+      "request": "launch",
+      "mainClass": "negativopositivo",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Teste",
+      "request": "launch",
+      "mainClass": "Teste",
+      "projectName": "vscode_fbb576d"
+    },
+    {
+      "type": "java",
+      "name": "Launch mediaFor",
+      "request": "launch",
+      "mainClass": "mediaFor",
+      "projectName": "vscode_71559de3"
+    },
+    {
+      "type": "java",
+      "name": "Launch valida",
+      "request": "launch",
+      "mainClass": "valida",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch cpf",
+      "request": "launch",
+      "mainClass": "cpf",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch lampada",
+      "request": "launch",
+      "mainClass": "java.lampada",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch Media",
+      "request": "launch",
+      "mainClass": "java.Media",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch mediaFor",
+      "request": "launch",
+      "mainClass": "java.mediaFor",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetor3",
+      "request": "launch",
+      "mainClass": "vetor3",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch mediaFor",
+      "request": "launch",
+      "mainClass": "mediaFor",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch Media",
+      "request": "launch",
+      "mainClass": "Media",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch lampada",
+      "request": "launch",
+      "mainClass": "lampada",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch joao",
+      "request": "launch",
+      "mainClass": "joao",
+      "projectName": "teste_df575870"
+    },
+    {
+      "type": "java",
+      "name": "Launch Teste",
+      "request": "launch",
+      "mainClass": "Teste",
+      "projectName": "teste_df575870"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/Caio/Documents/teste",
+      "environment": [],
+      "program": "c:/Users/Caio/Documents/teste/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
