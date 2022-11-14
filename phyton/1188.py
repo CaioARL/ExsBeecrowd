@@ -7,8 +7,6 @@ for i in range(12):
     for x in range(12):
         num = float(input())
         matriz[i].append(num)
-
-posi = [5,6]
 soma = 0
 x=0
 for linha in range(7,12):
